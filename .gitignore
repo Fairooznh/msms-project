@@ -1,0 +1,5 @@
+.venv/
+data/msms_backup.json
+__pycache__/
+*.pyc
+*.py~
